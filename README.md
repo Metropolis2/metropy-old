@@ -1,5 +1,7 @@
 # Python library for METROPOLIS2
 
+**Update February 2026: metropy has been superseded by [Pymetropolis](https://github.com/Metropolis2/pymetropolis)!**
+
 This repository contains Python tools to work with METROPOLIS2 input and output data.
 
 # Requirements
